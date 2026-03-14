@@ -1,4 +1,4 @@
-## Spam Email Classifier (Machine Learning)
+## Spam Email Classifier 
 
 This project is a simple spam email classifier built using Python and machine learning techniques.
 
